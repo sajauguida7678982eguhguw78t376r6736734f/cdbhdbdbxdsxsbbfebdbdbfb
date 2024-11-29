@@ -7,7 +7,7 @@ apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && apt -y i
 ## INSTALL SCRIPT 
 Masukkan perintah dibawah untuk menginstall Autoscript Premium by Gemilangkinasih࿐
 ```
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/gemilangvip/autoscript-vvip/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/sajauguida7678982eguhguw78t376r6736734f/cdbhdbdbxdsxsbbfebdbdbfb/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
 ```
 
 ## `IZIN IP AUTOSCRIPT KHUSUS MEMBER VIP !`
@@ -17,7 +17,7 @@ Gemilang Kinasih :
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```
-wget -q https://raw.githubusercontent.com/gemilangvip/autoscript-vip/main/update.sh && chmod +x update.sh && ./update.sh
+wget -q https://raw.githubusercontent.com/sajauguida7678982eguhguw78t376r6736734f/cdbhdbdbxdsxsbbfebdbdbfb/main/update.sh && chmod +x update.sh && ./update.sh
 ```
 
 ## TESTED ON OS
@@ -69,8 +69,8 @@ wget -q https://raw.githubusercontent.com/gemilangvip/autoscript-vip/main/update
 ```
 
 ## TAMPILAN MENU SCRIPT
-<img width="100%" alt="Screenshot_20240102_204408" src="https://github.com/gemilangvip/autoscript-vvip/assets/154574742/613d3df8-930e-4e4b-9d98-663b6723bb5b">
-<img width="100%" alt="Screenshot_20240102_204438" src="https://github.com/gemilangvip/autoscript-vvip/assets/154574742/1e49c63e-e9a3-47cc-abea-fd81a5f121e8">
+<img width="100%" alt="Screenshot_20240102_204408" src="https://github.com/sajauguida7678982eguhguw78t376r6736734f/cdbhdbdbxdsxsbbfebdbdbfb/assets/154574742/613d3df8-930e-4e4b-9d98-663b6723bb5b">
+<img width="100%" alt="Screenshot_20240102_204438" src="https://github.com/sajauguida7678982eguhguw78t376r6736734f/cdbhdbdbxdsxsbbfebdbdbfb/assets/154574742/1e49c63e-e9a3-47cc-abea-fd81a5f121e8">
 
 ## `! MEKANISME PENYEWAAN AUTOSCRIPT MEMBER VVIP 10K, 2 IP / BULAN !`
 - Script `VIP` Last Update `Version 2.4`, Semua Fitur Pada Menu Utama Sudah Dioptimalkan Sehingga Meminimalisir Adanya `BUG`<br>
